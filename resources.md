@@ -2,7 +2,7 @@ Resources
 =========
 
 - http://www.uthcode.com/pythondesign.html#python-internals
-- http://greentreesnakes.readthedocs.org/en/latest/nodes.html
+- https://greentreesnakes.readthedocs.io/en/latest/nodes.html
 - http://wiki.python.org/moin/PythonImplementations
 - https://www.youtube.com/watch?v=XGF3Qu4dUqk
 - http://www.python.org/dev/peps/pep-0339/
